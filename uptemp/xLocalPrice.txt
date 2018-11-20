@@ -1,0 +1,2 @@
+[files]
+xLocalPrice.dll=16112601

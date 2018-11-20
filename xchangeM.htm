@@ -1,0 +1,46 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Power by www.chudl.com</title>
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="10" bottommargin="0" scroll=no>
+<script type="text/javascript">
+function sendPoints(arg)
+{
+window.location = 'skp:create_face@'+arg;
+}
+
+function exitsethole(name)
+{
+  window.location='skp:on_close@' + name;
+}
+function SendBoardJson(sJson) {
+	CLXBaseRun.DoCmdStr(1,sJson,200)
+}
+      
+</script>
+
+<SCRIPT ID=ao1 LANGUAGE=javascript>
+function CLXBaseRun_OnCustomStrEvent(EventID,Data,P) {
+
+if (Data==''){
+exitsethole(Data);
+}
+else{
+sendPoints(Data);
+exitsethole(Data);
+}
+return Data;
+}
+</SCRIPT>
+<SCRIPT LANGUAGE=javascript FOR=CLXBaseRun EVENT=OnCustomStrEvent(EventID,Data,P)>
+return CLXBaseRun_OnCustomStrEvent(EventID,Data,P)
+</SCRIPT>
+<div id='ss'> 
+<script type="text/javascript"
+src="http://42.120.11.48:8088/ENT/AppSvr.dll/xbaseboard.ao.js?"></script>
+</div>
+
+
+</iframe>
+</html>

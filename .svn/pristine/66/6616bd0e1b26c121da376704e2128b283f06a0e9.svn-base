@@ -1,0 +1,42 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Power by www.chudl.com</title>
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="10" bottommargin="0" scroll=no>
+<script type="text/javascript">
+function sendPoints(arg)
+{
+window.location = 'skp:create_lamp@'+arg;
+}
+
+function SUexitStair(name)
+{
+  window.location='skp:ExitStair@' + name;
+}
+function SendlampJson(sJson) {
+}
+      
+</script>
+
+<SCRIPT ID=ao1 LANGUAGE=javascript>
+function CLXBaseRun_OnCustomStrEvent(EventID,Data,P) {
+<!--x1.value=Data;-->
+sendPoints(Data);
+return Data;
+}
+</SCRIPT>
+<SCRIPT LANGUAGE=javascript FOR=CLXBaseRun EVENT=OnCustomStrEvent(EventID,Data,P)>
+return CLXBaseRun_OnCustomStrEvent(EventID,Data,P)
+</SCRIPT>
+<div id='ssa'> 
+<script type="text/javascript"
+src="http://42.120.11.48:8088/ENT/AppSvr.dll/xsellamp.ao.js"></script>
+</div>
+
+
+</iframe>
+
+
+</html>

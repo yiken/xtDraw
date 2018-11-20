@@ -1,0 +1,27 @@
+<html>
+<head>
+<SCRIPT LANGUAGE=javascript>
+function SendUnitJson(sJson) {
+	ao2.DoCmdStr(1,sJson,200)
+}
+</SCRIPT>
+</head>
+<body>
+
+<SCRIPT ID=ao1 LANGUAGE=javascript>
+function CLXBaseRun_OnCustomStrEvent(EventID,Data,P) {
+<!--x1.value=Data;-->
+SendUnitJson(Data);
+return Data;
+}
+</SCRIPT>
+<SCRIPT LANGUAGE=javascript FOR=CLXBaseRun EVENT=OnCustomStrEvent(EventID,Data,P)>
+return CLXBaseRun_OnCustomStrEvent(EventID,Data,P)
+</SCRIPT>
+
+<div id='ss'> 
+<script type="text/javascript"
+src="http://42.120.11.48:8088/ENT/AppSvr.dll/xreportallN6.ao.js?id=ao2"></script>
+</div>
+</body>
+</html>

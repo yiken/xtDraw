@@ -1,0 +1,4 @@
+[INFO]
+VER=2017052701
+PATH=http://www.chudl.com/xtupdate/xtdraw_update17052801.rar
+

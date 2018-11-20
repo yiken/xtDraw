@@ -1,0 +1,14 @@
+[config]
+name=
+chkvar=1
+zip=0
+ReplaceExt=
+
+[files]
+configIP.ini	=	18080402
+
+[execapp]
+
+[delfiles]
+
+[empty]

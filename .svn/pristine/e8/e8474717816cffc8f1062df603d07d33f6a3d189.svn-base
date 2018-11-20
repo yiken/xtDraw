@@ -1,0 +1,766 @@
+[SideThick]
+H=2
+B=1
+
+[sort]
+柜体=1
+
+[Board]
+右侧板LC  	=	B+B,B+B|B
+左侧板LC        =	B+B,B+B|B
+底板            =	B+B,B+B|B
+顶板            =	B+B,B+B|B
+包脚前          =	B+B,B+B|B
+包脚后          =	B+B,B+B|B
+脚纵线          =	B+B,B+B|B
+站板            =	B+B,B+B|B
+台板            =	B+B,B+B|B
+背板竖纹        =	B+B,B+B|B
+背板横纹        =	B+B,B+B|B
+封板竖纹        =	B+B,B+B|B
+封板横纹        =	B+B,B+B|B
+罗马柱(竖纹)    =	B+B,B+B|B
+罗马柱(横纹)    =	B+B,B+B|B
+平封板          =	B+B,B+B|B
+侧背板          =	B+B,B+B|B
+侧封板          =	B+B,B+B|B
+活动台板        =	B+B,B+B|B
+玻璃台板        =	B+B,B+B|B
+右侧板          =	B+B,B+B|B
+左侧板          =	B+B,B+B|B
+顶板LC          =	B+B,B+B|B
+底板LC          =	B+B,B+B|B
+硬背板(竖纹)    =	B+B,B+B|B
+硬背板(横纹)    =	B+B,B+B|B
+卡灯(孔上灯下)  =	B+B,B+B|B
+右缺角板        =	B+B,B+B|B
+中缺层板        =	B+B,B+B|B
+后中缺口层板    =	B+B,B+B|B
+后中带圆弧缺角层板=	B+B,B+B|B
+后中缺左右圆弧层板=	B+B,B+B|B
+中缺层板A         =	B+B,B+B|B
+中缺层板B       =	B+B,B+B|B
+左前后缺角层板  =	B+B,B+B|B
+右前后缺角层板  =	B+B,B+B|B
+四缺角层板      =	B+B,B+B|B
+左右缺口层板    =	B+B,B+B|B
+左右缺层板      =	B+B,B+B|B
+前缺口层板      =	B+B,B+B|B
+层板异形L       =	B+B,B+B|B
+层板异形K       =	B+B,B+B|B
+层板异形M       =	B+B,B+B|B
+层板异形N       =	B+B,B+B|B
+左圆弧缺角横纹层板=	B+B,B+B|B
+右圆弧缺角横纹层板=	B+B,B+B|B
+前导角左前后缺角层板=	B+B,B+B|B
+前导角右前后缺角层板=	B+B,B+B|B
+左缺角层板A     =	B+B,B+B|B
+右缺角层板A     =	B+B,B+B|B
+左缺角前中缺层板=	B+B,B+B|B
+右缺角前中缺层板=	B+B,B+B|B
+层板异形S       =	B+B,B+B|B
+前左缺角板      =	B+B,B+B|B
+前右缺角板      =	B+B,B+B|B
+右后二缺层板    =	B+B,B+B|B
+左后二缺层板    =	B+B,B+B|B
+后下缺角侧板    =	B+B,B+B|B
+后上缺角侧板    =	B+B,B+B|B
+前上缺角竖板    =	B+B,B+B|B
+前下缺角竖板    =	B+B,B+B|B
+后缺口侧板      =	B+B,B+B|B
+免拉手侧板      =	B+B,B+B|B
+左圆弧包脚      =	B+B,B+B|B
+左圆弧台板      =	B+B,B+B|B
+右圆弧包脚      =	B+B,B+B|B
+右圆弧台板      =	B+B,B+B|B
+四角圆弧层板    =	B+B,B+B|B
+前角圆弧层板    =	B+B,B+B|B
+前左圆弧层板    =	B+B,B+B|B
+前右圆弧层板    =	B+B,B+B|B
+左侧圆弧层板    =	B+B,B+B|B
+右侧圆弧层板    =	B+B,B+B|B
+右圆弧缺角层板  =	B+B,B+B|B
+左圆弧缺角层板  =	B+B,B+B|B
+层板异形A       =	B+B,B+B|B
+层板异形T       =	B+B,B+B|B
+层板异形U       =	B+B,B+B|B
+层板异形D       =	B+B,B+B|B
+层板异形F       =	B+B,B+B|B
+层板异形E       =	B+B,B+B|B
+层板异形H       =	B+B,B+B|B
+层板异形I       =	B+B,B+B|B
+前圆弧异形层板  =	B+B,B+B|B
+二分之一圆环板A =	B+B,B+B|B
+二分之一圆环板B =	B+B,B+B|B
+前导角竖板      =	B+B,B+B|B
+前后导角侧板    =	B+B,B+B|B
+左前圆弧侧板    =	B+B,B+B|B
+四边圆弧侧板    =	B+B,B+B|B
+前后下圆弧侧板  =	B+B,B+B|B
+前上下圆弧侧板  =	B+B,B+B|B
+侧板下圆弧      =	B+B,B+B|B
+L型板右         =	B+B,B+B|B
+L型板左         =	B+B,B+B|B
+L型板右A        =	B+B,B+B|B
+L型板左A        =	B+B,B+B|B
+左L形缺角板     =	B+B,B+B|B
+右L形缺角板     =	B+B,B+B|B
+L型缺角板左A    =	B+B,B+B|B
+L型缺角板右A    =	B+B,B+B|B
+层板异形J       =	B+B,B+B|B
+层板异形P       =	B+B,B+B|B
+倒L形侧板       =	B+B,B+B|B
+L形门楣_侧板    =	B+B,B+B|B
+门楣            =	B+B,B+B|B
+L型书桌面左     =	B+B,B+B|B
+L型书桌面右     =	B+B,B+B|B
+L型书桌面左A    =	B+B,B+B|B
+L型书桌面右A    =	B+B,B+B|B
+左L型层板A      =	B+B,B+B|B
+右L型层板A      =	B+B,B+B|B
+左圆弧L形板     =	B+B,B+B|B
+层板异形B       =	B+B,B+B|B
+层板异形C       =	B+B,B+B|B
+层板异形R       =	B+B,B+B|B
+层板异形Q       =	B+B,B+B|B
+梯形层板A       =	B+B,B+B|B
+梯形层板B       =	B+B,B+B|B
+梯形层板C       =	B+B,B+B|B
+层板缺口异形A   =	B+B,B+B|B
+层板缺口异形B   =	B+B,B+B|B
+前二斜边层板    =	B+B,B+B|B
+后斜梯形侧板    =	B+B,B+B|B
+前斜梯形侧板    =	B+B,B+B|B
+等腰梯形层板    =	B+B,B+B|B
+梯形侧板A       =	B+B,B+B|B
+侧板异形D       =	B+B,B+B|B
+梯形侧板        =	B+B,B+B|B
+三角竖纹背板    =	B+B,B+B|B
+五边形板左      =	B+B,B+B|B
+五边形板右      =	B+B,B+B|B
+门眉一          =	B+B,B+B|B
+门眉二          =	B+B,B+B|B
+门眉三          =	B+B,B+B|B
+门眉四          =	B+B,B+B|B
+门眉五          =	B+B,B+B|B
+门眉六          =	B+B,B+B|B
+门眉七          =	B+B,B+B|B
+36右侧板LC      =	B+B,B+B|B
+36左侧板LC      =	B+B,B+B|B
+36底板          =	B+B,B+B|B
+36顶板          =	B+B,B+B|B
+36台板(孔下)    =	B+B,B+B|B
+36站板(孔右)    =	B+B,B+B|B
+36站板(孔左)    =	B+B,B+B|B
+36台板(孔上)    =	B+B,B+B|B
+36右侧板        =	B+B,B+B|B
+36左侧板        =	B+B,B+B|B
+36底板LC        =	B+B,B+B|B
+36顶板LC        =	B+B,B+B|B
+平拉条          =	B+B,B+B|B
+前挡板          =	B+B,B+B|B
+背拉条          =	B+B,B+B|B
+层板加工        =	B+B,B+B|B
+侧板加工        =	B+B,B+B|B
+硬背板竖纹加工  =	B+B,B+B|B
+硬背板横纹加工  =	B+B,B+B|B
+25右侧板LC      =	B+B,B+B|B
+25左侧板LC      =	B+B,B+B|B
+25底板          =	B+B,B+B|B
+25顶板          =	B+B,B+B|B
+25站板(孔右)    =	B+B,B+B|B
+25台板(孔下)    =	B+B,B+B|B
+25站板(孔左)    =	B+B,B+B|B
+25台板(孔上)    =	B+B,B+B|B
+25右侧板        =	B+B,B+B|B
+25左侧板        =	B+B,B+B|B
+25底板LC        =	B+B,B+B|B
+25顶板LC        =	B+B,B+B|B
+抽邦右          =	B+B,B+B|B
+抽邦左          =	B+B,B+B|B
+抽尾            =	B+B,B+B|B
+抽前档          =	B+B,B+B|B
+托底抽邦右      =	B+B,B+B|B
+托底抽邦左      =	B+B,B+B|B
+托底尾          =	B+B,B+B|B
+托底前档        =	B+B,B+B|B
+裤架右          =	B+B,B+B|B
+裤架左          =	B+B,B+B|B
+裤架尾          =	B+B,B+B|B
+裤架前档        =	B+B,B+B|B
+键盘吊板右      =	B+B,B+B|B
+键盘吊板左      =	B+B,B+B|B
+托底底板        =	B+B,B+B|B
+键盘底板        =	B+B,B+B|B
+抽面竖纹        =	B+B,B+B|B
+抽面横纹        =	B+B,B+B|B
+抽屉面板A       =	B+B,B+B|B
+抽屉面板B       =	B+B,B+B|B
+抽屉面板C       =	B+B,B+B|B
+圆弧抽右侧      =	B+B,B+B|B
+圆弧抽左侧      =	B+B,B+B|B
+抽面竖纹(隐形拉手)=	B+B,B+B|B
+抽面竖纹(暗拉手)=	B+B,B+B|B
+格子抽横板2     =	B+B,B+B|B
+格子抽横板3     =	B+B,B+B|B
+格子抽横板4     =	B+B,B+B|B
+格子抽横板5     =	B+B,B+B|B
+格子抽横板6     =	B+B,B+B|B
+格子抽横板7     =	B+B,B+B|B
+格子抽横板8     =	B+B,B+B|B
+格子抽竖板2     =	B+B,B+B|B
+格子抽竖板3     =	B+B,B+B|B
+格子抽竖板5     =	B+B,B+B|B
+格子抽竖板4     =	B+B,B+B|B
+导角格子竖板2   =	B+B,B+B|B
+导角格子竖板3   =	B+B,B+B|B
+导角格子竖板4   =	B+B,B+B|B
+橱柜右侧LC      =	B+B,B+B|B
+橱柜左侧LC      =	B+B,B+B|B
+橱柜底板LC      =	B+B,B+B|B
+橱柜顶板LC      =	B+B,B+B|B
+橱柜前挡板      =	B+B,B+B|B
+橱柜背拉条      =	B+B,B+B|B
+橱柜背板(横纹)  =	B+B,B+B|B
+橱柜背板(竖纹)  =	B+B,B+B|B
+橱柜平拉条      =	B+B,B+B|B
+橱柜吊柜板      =	B+B,B+B|B
+橱柜垫条        =	B+B,B+B|B
+橱柜垫板        =	B+B,B+B|B
+橱柜硬背板      =	B+B,B+B|B
+底板铝箔LC      =	B+B,B+B|B
+底板铝箔        =	B+B,B+B|B
+橱柜封板竖纹    =	B+B,B+B|B
+橱柜封板横纹    =	B+B,B+B|B
+橱柜平封板      =	B+B,B+B|B
+橱柜侧封板      =	B+B,B+B|B
+橱柜右侧        =	B+B,B+B|B
+橱柜左侧        =	B+B,B+B|B
+橱柜活台板      =	B+B,B+B|B
+橱柜台板        =	B+B,B+B|B
+橱柜站板        =	B+B,B+B|B
+开灶缺侧板      =	B+B,B+B|B
+橱柜门板竖纹    =	B+B,B+B|B
+调味篮门板      =	B+B,B+B|B
+拉篮抽面        =	B+B,B+B|B
+橱柜门板竖纹G   =	B+B,B+B|B
+橱柜门板横纹G   =	B+B,B+B|B
+调味篮门板G     =	B+B,B+B|B
+拉篮抽面G       =	B+B,B+B|B
+橱柜上翻门竖纹G =	B+B,B+B|B
+橱柜上翻门竖纹  =	B+B,B+B|B
+橱柜上翻门横纹  =	B+B,B+B|B
+橱柜上翻门横纹G =	B+B,B+B|B
+平开门竖纹      =	B+B,B+B|B
+平开门横纹      =	B+B,B+B|B
+上翻门竖纹      =	B+B,B+B|B
+上翻门横纹      =	B+B,B+B|B
+侧面门板竖纹    =	B+B,B+B|B
+侧面门板横纹    =	B+B,B+B|B
+平开门横纹G     =	B+B,B+B|B
+平开门竖纹G     =	B+B,B+B|B
+上翻门竖纹G     =	B+B,B+B|B
+上翻门横纹G     =	B+B,B+B|B
+侧面门板竖纹G   =	B+B,B+B|B
+侧面门板横纹G   =	B+B,B+B|B
+门后贴镜子      =	B+B,B+B|B
+平开门竖纹暗    =	B+B,B+B|B
+平开门横纹暗    =	B+B,B+B|B
+门板嵌铜条      =	B+B,B+B|B
+门板铝框封边    =	B+B,B+B|B
+门条右          =	B+B,B+B|B
+门条左          =	B+B,B+B|B
+门条顶          =	B+B,B+B|B
+门条底          =	B+B,B+B|B
+木梭门底板      =	B+B,B+B|B
+木梭门顶板      =	B+B,B+B|B
+卡灯(孔下灯下)  =	B+B,B+B|B
+T框底           =	B+B,B+B|B
+T框顶           =	2+2,2+2|2
+T框右           =	2+2,2+2|2
+T框左           =	2+2,2+2|2
+T框中站板       =	2+2,2+2|2
+T框背板竖纹     =	2+2,2+2|2
+T框背板横纹     =	2+2,2+2|2
+T框顶穿尖       =	2+2,2+2|2
+T框底穿尖       =	2+2,2+2|2
+T框右穿尖       =	2+2,2+2|2
+T框左穿尖       =	2+2,2+2|2
+酒格1B短A       =	B+B,B+B|B
+酒格1B短B       =	B+B,B+B|B
+酒格2B短        =	B+B,B+B|B
+酒格2B          =	B+B,B+B|B
+酒格2B长        =	B+B,B+B|B
+酒格3B短        =	B+B,B+B|B
+酒格3B          =	B+B,B+B|B
+酒格3B长        =	B+B,B+B|B
+酒格4B短        =	B+B,B+B|B
+酒格4B          =	B+B,B+B|B
+酒格4B长        =	B+B,B+B|B
+酒格5B短        =	B+B,B+B|B
+酒格5B          =	B+B,B+B|B
+酒格5B长        =	B+B,B+B|B
+酒格6B短        =	B+B,B+B|B
+酒格6B          =	B+B,B+B|B
+酒格6B长        =	B+B,B+B|B
+酒格7B长        =	B+B,B+B|B
+酒格8B短        =	B+B,B+B|B
+酒格8B长        =	B+B,B+B|B
+酒格10B短       =	B+B,B+B|B
+酒格2A          =	B+B,B+B|B
+酒格3A          =	B+B,B+B|B
+酒格4A(竖)      =	B+B,B+B|B
+酒格5A(竖)      =	B+B,B+B|B
+酒格6A(竖)      =	B+B,B+B|B
+酒格7A(竖)      =	B+B,B+B|B
+酒格8A(竖)      =	B+B,B+B|B
+酒格9A(竖)      =	B+B,B+B|B
+酒格10A(竖)     =	B+B,B+B|B
+竖放酒架条      =	B+B,B+B|B
+酒瓶架A1后      =	B+B,B+B|B
+酒瓶架A1前      =	B+B,B+B|B
+酒瓶架B1后      =	B+B,B+B|B
+酒瓶架B2前      =	B+B,B+B|B
+TTM右侧         =	B+B,B+B|B
+TTM左侧         =	B+B,B+B|B
+TTM后板         =	B+B,B+B|B
+TTM前板         =	B+B,B+B|B
+TTM横板         =	B+B,B+B|B
+TTM横条         =	B+B,B+B|B
+TTM竖板         =	B+B,B+B|B
+TTM竖条         =	B+B,B+B|B
+TTM封板横纹     =	B+B,B+B|B
+TTM封板竖纹     =	B+B,B+B|B
+TTM封板(正面)   =	B+B,B+B|B
+TTM底板(横纹)   =	B+B,B+B|B
+TTM封板(侧面)   =	B+B,B+B|B
+TTM底板(横纹)   =	B+B,B+B|B
+TTM底板(竖纹)   =	B+B,B+B|B
+TTM硬底板(竖纹) =	B+B,B+B|B
+TTM硬底板(横纹) =	B+B,B+B|B
+TTM顶板(竖纹)   =	B+B,B+B|B
+TTM顶板(横纹)   =	B+B,B+B|B
+TTM上翻门(竖纹) =	B+B,B+B|B
+TTM上翻门(横纹) =	B+B,B+B|B
+TTM正面门(竖纹) =	B+B,B+B|B
+TTM正面门(横纹) =	B+B,B+B|B
+TTM侧面门(竖纹) =	B+B,B+B|B
+TTM侧面门(横纹) =	B+B,B+B|B
+升降机桌面(竖纹)=	B+B,B+B|B
+升降机桌面(横纹)=	B+B,B+B|B
+床身右         =	        B+B,B+B|B
+床身左         =	        B+B,B+B|B
+床横档         =	        B+B,B+B|B
+床竖档         =	        B+B,B+B|B
+床尾           =	        B+B,B+B|B
+床板           =	        B+B,B+B|B
+床头板横纹     =	        B+B,B+B|B
+床头板竖纹     =	        B+B,B+B|B
+床头板硬背板   =	        B+B,B+B|B
+床头顶板       =	        B+B,B+B|B
+床头顶板       =	        B+B,B+B|B
+床头平拉条     =	        B+B,B+B|B
+床头背拉条     =	        B+B,B+B|B
+加厚板右       =	        B+B,B+B|B
+加厚板左       =	        B+B,B+B|B
+门上贴镜子     =	        B+B,B+B|B
+桌面           =	        B+B,B+B|B
+桌面LC         =	        B+B,B+B|B
+门板加工(横纹)        =	        B+B,B+B|B
+门板加工(竖纹)         =       B+B,B+B|B
+抽面加工(横纹)         =       B+B,B+B|B
+抽面加工(竖纹)         =       B+B,B+B|B
+36中竖板(双面LC)     =       B+B,B+B|B
+木梭门   	              =       B+B,B+B|B
+木梭门层板              =       B+B,B+B|B
+L型板左A【卡灯】          =       B+B,B+B|B
+左缺角硬背板 	=       B+B,B+B|B
+吊柜右侧板LC 	=       B+B,B+B|B
+吊柜左侧板LC 	=       B+B,B+B|B
+吊柜顶板LC 	=       B+B,B+B|B
+吊柜底板LC 	=       B+B,B+B|B
+吊柜背拉条 	=       B+B,B+B|B
+吊柜站板 	=       B+B,B+B|B
+吊柜台板 	=       B+B,B+B|B
+吊柜背板横纹 	=       B+B,B+B|B
+吊柜背板竖纹 	=       B+B,B+B|B
+右缺角硬背板 	=       B+B,B+B|B
+酒条前-7瓶 	=       B+B,B+B|B
+酒条前-8瓶 	=       B+B,B+B|B
+四台阶圆弧侧板 	=       B+B,B+B|B
+后中带圆弧缺角层板 	=       B+B,B+B|B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

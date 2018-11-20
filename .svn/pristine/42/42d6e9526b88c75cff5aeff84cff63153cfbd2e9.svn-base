@@ -1,0 +1,13 @@
+[Export]
+turntype=FB
+Basetype=Bbase
+turnWL=False
+
+[ExportItem]
+CGPOWERIsShow=1
+DataIsShow=1
+CUTIsShow=1
+ComputeHole=1
+ComputeCut=1
+ComputeMill=0
+HDTXTIsShow=1

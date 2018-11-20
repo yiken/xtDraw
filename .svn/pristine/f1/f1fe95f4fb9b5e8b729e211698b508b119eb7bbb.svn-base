@@ -1,0 +1,82 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Power by www.chudl.com</title>
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="10" bottommargin="0" scroll=no>
+
+<div id='ss'> 
+<script type="text/javascript"
+src="http://42.120.11.48:8088/ENT/AppSvr.dll/xLocalData.ao.js?"></script>
+</div>
+
+
+<script type="text/javascript">
+function sendPoints(arg)
+{
+	window.location = 'skp:createUnit@'+arg;
+}
+
+function exitsethole(name)
+{
+  window.location='skp:on_close@' + name;
+}
+function moveobj(data)
+{
+  window.location='skp:on_Move@' + data;
+}
+function changeobjsize(data)
+{
+  window.location='skp:on_ChangeSize@' + data;
+}
+function createunit(data)
+{
+  window.location='skp:on_createunit@' + data;
+}
+function backhoe(data)
+{
+  window.location='skp:on_backhoe@' + data;
+}
+function changedir(data)
+{
+  window.location='skp:on_changedir@' + data;
+}
+
+function Send_SelectTwoSize(sJson) {
+	CLXBaseRun.DoCmdStr(1,sJson,200)
+}
+
+function Send_SelectOneSize(sJson) {
+	CLXBaseRun.DoCmdStr(2,sJson,200)
+}
+   
+      
+</script>
+
+<SCRIPT ID=ao1 LANGUAGE=javascript>
+function CLXBaseRun_OnCustomStrEvent(EventID,Data,P) {
+	if (EventID==0){
+		exitsethole(Data);
+	}else if (EventID==100){
+		sendPoints(Data);
+	}else if (EventID==201){
+		moveobj(Data);
+	}else if (EventID==202){
+		changeobjsize(Data);
+	}else if (EventID==203){
+		createunit(Data);
+	}else if (EventID==210){
+		changedir(Data)
+	}else if (EventID==211){
+		backhoe(Data);
+	}
+return Data;
+}
+</SCRIPT>
+<SCRIPT LANGUAGE=javascript FOR=CLXBaseRun EVENT=OnCustomStrEvent(EventID,Data,P)>
+return CLXBaseRun_OnCustomStrEvent(EventID,Data,P)
+</SCRIPT>
+
+
+</iframe>
+</html>
